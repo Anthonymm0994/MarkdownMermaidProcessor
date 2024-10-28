@@ -1,0 +1,10 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# other unnecessary files.
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
